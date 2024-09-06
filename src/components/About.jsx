@@ -1,6 +1,6 @@
 export const About = () => {
   return (
-    <section className="py-16 bg-white">
+    <section className="py-16 bg-white" id="about">
       <div className="container mx-auto">
         <h2 className="text-3xl font-bold text-center mb-8">
           About This Project
@@ -34,7 +34,7 @@ export const About = () => {
             </a>
           </div>
 
-          <h3 className="text-2xl font-bold text-center mb-4">My Contacts</h3>
+          <h3 className="text-2xl font-bold text-center mb-4" id="contact">My Contacts</h3>
           <div className="text-blue-500 flex justify-evenly">
             <a
               href="https://www.linkedin.com/in/ademola-ademeso"

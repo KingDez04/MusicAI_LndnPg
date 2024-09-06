@@ -3,16 +3,28 @@ export const NavBar = () => {
     <nav className="flex justify-evenly items-baseline">
       <p className="text-white text-4xl md:text-5xl font-bold">MusicAI</p>
       <a
-        href="/about"
+        href="#about"
         className="text-white text-2xl md:text-4xl hover:text-red-400 transition-colors"
       >
         About
       </a>
       <a
-        href="/features"
+        href="#features"
         className="text-white text-2xl md:text-4xl hover:text-red-400 transition-colors"
       >
         Features
+      </a>
+      <a
+        href="#contact"
+        className="text-white text-2xl md:text-4xl hover:text-red-400 transition-colors"
+      >
+        Contact
+      </a>
+      <a
+        href="#video"
+        className="text-white text-2xl md:text-4xl hover:text-red-400 transition-colors"
+      >
+        Video
       </a>
       <a
         href="https://musicai-client.vercel.app/"
