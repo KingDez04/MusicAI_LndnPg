@@ -4,19 +4,19 @@ export const Features = () => {
       name: "Personalized Music Recommendations",
       description:
         "Get song suggestions based on your favorite genre, mood, activity, and time of day.",
-      image: "src/assets/personalizedMusic.png",
+      image: "images/personalizedMusic.png",
     },
     {
       name: "Explore by Mood and Activity",
       description:
         "Discover new music that perfectly matches your current mood or activity, whether it's working out or relaxing.",
-      image: "src/assets/exploreMoodActivity.png",
+      image: "images/exploreMoodActivity.png",
     },
     {
       name: "Discover New Music and Artists",
       description:
         "Find specific tracks to listen and discover new music and artists that matches your taste.",
-      image: "src/assets/discoverNewArtists.png",
+      image: "images/discoverNewArtists.png",
     },
   ];
 

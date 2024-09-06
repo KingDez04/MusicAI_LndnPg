@@ -4,7 +4,7 @@ export const Hero = () => {
   return (
     <div
       className="relative h-screen bg-cover bg-center"
-      style={{ backgroundImage: `url('src/assets/coverImage.png')` }}
+      style={{ backgroundImage: `url('images/coverImage.png')` }}
     >
       <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-center items-center">
         <div className="absolute w-full top-0 bg-opacity-60">
