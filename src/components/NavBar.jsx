@@ -1,7 +1,7 @@
 export const NavBar = () => {
   return (
     <nav className="flex justify-evenly items-baseline">
-      <p className="text-white text-4xl md:text-5xl font-bold">MusicAI</p>
+      <p className="text-white text-lg sm:text-2xl md:text-5xl font-bold">MusicAI</p>
       <a
         href="#about"
         className="text-white text-sm sm:text-lg md:text-4xl hover:text-red-400 transition-colors"

@@ -13,7 +13,7 @@ export const About = () => {
             find personalized music. This project represents my journey of
             merging technology with my love for music. The project started as a
             personal passion but soon evolved into something greater. As part of
-            my Portfolio Project for Holberton School, I wanted to showcase my
+            my Portfolio Project for ALX, I wanted to showcase my
             skills in both front-end and back-end development, working with
             modern technologies like React, Node.js, TailwindCSS and OpenAI.
           </p>
