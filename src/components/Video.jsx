@@ -14,7 +14,7 @@ export const Video = () => {
             controls
             poster="images/videoThumbnail.png"
           >
-            <source src="musicai-overview.mp4" type="video/mp4" />
+            <source src="videos/musicaiOverview.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
